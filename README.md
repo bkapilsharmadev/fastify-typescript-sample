@@ -22,7 +22,9 @@ A starter template for building robust server-side applications using **Fastify*
 ```bash
 git clone https://github.com/bkapilsharmadev/fastify-typescript-sample.git
 cd fastify-typescript-sample
+```
 
 ### **2. InstallDependencies**
 ```bash
 npm install
+
