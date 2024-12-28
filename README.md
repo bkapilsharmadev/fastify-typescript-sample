@@ -27,4 +27,14 @@ cd fastify-typescript-sample
 ### **2. InstallDependencies**
 ```bash
 npm install
+```
 
+### **3. Run the project**
+- For Development
+```bash
+npm run dev
+```
+- For Production
+```bash
+npm run build && npm start
+```
