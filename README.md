@@ -51,3 +51,4 @@ npm run build && npm start
 | `lint`         | `eslint src`                                                  | Lints the codebase using ESLint to ensure code quality and style consistency.                           |
 | `format`       | `prettier --write src/**/*.ts`                                | Formats the codebase using Prettier to maintain a consistent style.                                     |
 | `prepare`      | `husky`                                                       | Runs Husky setup to enable Git hooks for tasks like pre-commit linting or formatting.                   |
+
